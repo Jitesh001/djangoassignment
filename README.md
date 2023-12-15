@@ -1,2 +1,2 @@
-# djangoassignment
+# djangowork
 Django Rest API assignment
